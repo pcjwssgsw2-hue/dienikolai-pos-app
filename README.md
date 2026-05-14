@@ -1,1 +1,1 @@
-dieNikolai POS App
+dieNikolai POS App.
